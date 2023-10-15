@@ -1,6 +1,7 @@
 {
   "name": "student-enrollment-frontend",
   "version": "0.1.0",
+  "homepage": "https://terencebundela.github.io/Student-Enrollment-Frontend",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -20,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d docs"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
