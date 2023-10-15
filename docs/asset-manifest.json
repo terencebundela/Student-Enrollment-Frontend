@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Student-Enrollment-Frontend/static/css/main.3bd5df67.css",
+    "main.js": "/Student-Enrollment-Frontend/static/js/main.7f64ac58.js",
+    "index.html": "/Student-Enrollment-Frontend/index.html",
+    "main.3bd5df67.css.map": "/Student-Enrollment-Frontend/static/css/main.3bd5df67.css.map",
+    "main.7f64ac58.js.map": "/Student-Enrollment-Frontend/static/js/main.7f64ac58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd5df67.css",
+    "static/js/main.7f64ac58.js"
+  ]
+}
